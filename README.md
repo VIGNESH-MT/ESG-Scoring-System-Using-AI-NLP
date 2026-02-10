@@ -1,3 +1,5 @@
+```bash
+
 esg-intelligence-platform/
 │
 ├── README.md                      # Executive + technical overview
