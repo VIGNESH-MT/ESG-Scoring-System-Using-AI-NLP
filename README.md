@@ -12,7 +12,7 @@ and post-hoc audit.
 
 This is an **enterprise decision system**, not a research artifact.
 
----
+----
 
 ## Problem Context
 
